@@ -1,1 +1,2 @@
-This is my first code
+THIS IS MY FIRST CODE.
+Happy enough to use github...
